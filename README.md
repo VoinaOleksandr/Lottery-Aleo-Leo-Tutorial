@@ -1,4 +1,5 @@
-# Discord: parmedgano
+#### Discord: parmedgano
+
 # lottery.aleo
 
 ## Run Guide
